@@ -1,6 +1,11 @@
-# 🎙️ Android Audio Input Manager
+<p align="center">
+  # 🎙️ Android Audio Input Manager
 
 A simple yet powerful Android utility to help you manage your device's audio input source. Perfect for gamers, streamers, and anyone who wants more control over whether their phone uses the built-in mic or a connected Bluetooth headset.
+
+</p>
+
+
 
 ---
 
