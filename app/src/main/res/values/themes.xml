@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AudioInputManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.AudioInputManager" parent="Base.Theme.AudioInputManager" />
+
+    <!-- Add this new Splash Screen Theme -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Set the splash screen's background color -->
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <!-- Set the icon to display -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_mic_logo</item>
+        <!-- Set the theme to transition to after the splash screen -->
+        <item name="postSplashScreenTheme">@style/Theme.AudioInputManager</item>
+    </style>
+
+</resources>
