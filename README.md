@@ -61,5 +61,8 @@ You can build and run this project from the source code.
 
 ## 📸 Screenshot
 
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/18e7de7b-c1f0-4c2f-a74d-2363ca456098" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18e7de7b-c1f0-4c2f-a74d-2363ca456098" width="250"/>
+</p>
+
 
