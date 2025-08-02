@@ -59,18 +59,7 @@ You can build and run this project from the source code.
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-*(You can add screenshots here to show what the app looks like!)*
-```
+<img width="489" height="869" alt="image" src="https://github.com/user-attachments/assets/18e7de7b-c1f0-4c2f-a74d-2363ca456098" />
 
-### Step 2: Update the File on GitHub
-
-1.  Go to your repository page on GitHub.
-2.  Click on the `README.md` file.
-3.  Click the **pencil icon** ✏️ in the top-right corner to edit the file.
-4.  Delete all the old text and paste the new, complete content from above.
-5.  Scroll to the bottom and in the "Commit changes" box, type a message like `Add prerequisites section to README`.
-6.  Click the green **"Commit changes"** button.
-
-Your project's README is now even more complete and helpful for any future visitors or collaborators.
